@@ -82,7 +82,7 @@ Implement Git for version control and collaboration, ensuring that your project 
 
 # Project Repository
 
-The source code and additional details can be found on GitHub:https://github.com/ashishkumarrajpoot89
+The source code and additional details can be found on GitHub:https://github.com/ashishkumarrajpoot89/Adventure_works_
 # Conclusion
 
 The analysis underscores the critical importance of achieving a balance in the distribution of the sales to ensure that resources are allocated effectively across various regions. By optimizing regional strategies, organizations can significantly enhance their overall performance and responsiveness to market demands. Furthermore, the integration of sales metrics and relevant data is essential, as it can provide a more comprehensive understanding of sales trends and customer behaviour. This deeper insight can ultimately lead to improved strategic planning, enabling businesses to make informed decisions that drive growth and success.
